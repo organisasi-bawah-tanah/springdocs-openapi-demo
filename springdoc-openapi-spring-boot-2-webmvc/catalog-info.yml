@@ -4,7 +4,7 @@ metadata:
   name: "springboot-openapi"
   description: "springboot-openapi"
   annotations:
-    github.com/project-slug: xb4dc0d3/springboot-openapi-demo/springdoc-openapi-spring-boot-2-webmvc
+    github.com/project-slug: xb4dc0d3/springdocs-openapi-demo/tree/master/springdoc-openapi-spring-boot-2-webmvc
 spec:
   type: service
   lifecycle: experimental
