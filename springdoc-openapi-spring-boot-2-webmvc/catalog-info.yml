@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "springboot-openapi"
+  description: "springboot-openapi"
+  annotations:
+    github.com/project-slug: xb4dc0d3/springboot-openapi-demo/springdoc-openapi-spring-boot-2-webmvc
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "guest"
+  providesApis:
+    - openapi-test
