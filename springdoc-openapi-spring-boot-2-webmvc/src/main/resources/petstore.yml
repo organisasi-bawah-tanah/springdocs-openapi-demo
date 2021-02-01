@@ -22,9 +22,9 @@ externalDocs:
   url: 'http://swagger.io'
 servers:
   - url: http://54.178.18.158:9600/api/v3
-  description: Production server (uses live data)
+    description: Production server (uses live data)
   - url: http://54.178.18.158:9200/api/v3
-  description: Development server
+    description: Development server
 tags:
   - name: pet
     description: Everything about your Pets
