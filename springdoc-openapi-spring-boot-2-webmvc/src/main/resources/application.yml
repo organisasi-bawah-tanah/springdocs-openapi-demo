@@ -7,7 +7,7 @@ server:
     min-response-size: 1024
   http2:
     enabled: true
-  port: 9600
+  port: 7000
 
 spring:
   resources:

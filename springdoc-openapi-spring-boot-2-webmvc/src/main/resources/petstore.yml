@@ -21,10 +21,8 @@ externalDocs:
   description: Find out more about Swagger
   url: 'http://swagger.io'
 servers:
-  - url: http://54.178.18.158:9600/
+  - url: http://52.193.76.97:7000/
     description: Production server (uses live data)
-  - url: http://54.178.18.158:9200/
-    description: Development server
 tags:
   - name: pet
     description: Everything about your Pets
