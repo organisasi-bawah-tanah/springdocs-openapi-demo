@@ -21,7 +21,7 @@ externalDocs:
   description: Find out more about Swagger
   url: 'http://swagger.io'
 servers:
-  - url: http://52.193.76.97:7001/
+  - url: http://3.115.252.129:7001/
     description: Production server (uses live data)
 tags:
   - name: pet
